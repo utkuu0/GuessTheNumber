@@ -1,2 +1,2 @@
 # GuessTheNumber
-Guessing name with C#
+Guessing number with C#
